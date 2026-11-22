@@ -1,0 +1,329 @@
+id,name,category,lang,author,source_platform,source_url,tier,audit_depth,has_full_text,checked_at,signals_permissions,signals_network,signals_credentials,signals_suspicious,signals_dependencies,signals_total,audit_url
+1,pdf,数据处理,en,Anthropic,GitHub,https://github.com/anthropics/skills/tree/main/skills/pdf,notice,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,1,2,https://1vr.com/skills/1
+2,docx,效率办公,en,Anthropic,GitHub,https://github.com/anthropics/skills/tree/main/skills/docx,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/2
+3,xlsx,数据处理,en,Anthropic,GitHub,https://github.com/anthropics/skills/tree/main/skills/xlsx,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/3
+4,pptx,内容创作,en,Anthropic,GitHub,https://github.com/anthropics/skills/tree/main/skills/pptx,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/4
+5,skill-creator,开发编程,en,Anthropic,GitHub,https://github.com/anthropics/skills/tree/main/skills/skill-creator,notice,full,True,2026-11-22T08:50:11+00:00,0,2,1,3,1,7,https://1vr.com/skills/5
+6,mcp-builder,开发编程,en,Anthropic,GitHub,https://github.com/anthropics/skills/tree/main/skills/mcp-builder,notice,full,True,2026-11-22T08:50:11+00:00,0,3,0,0,1,4,https://1vr.com/skills/6
+7,frontend-design,开发编程,en,Anthropic,GitHub,https://github.com/anthropics/skills/tree/main/skills/frontend-design,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,0,1,https://1vr.com/skills/7
+8,gog,效率办公,en,steipete,ClawHub,https://clawhub.ai/steipete/gog,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/8
+9,github,开发编程,en,steipete,ClawHub,https://clawhub.ai/steipete/github,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/9
+10,agent-browser,开发编程,en,TheSethRose,ClawHub,https://clawhub.ai/TheSethRose/agent-browser,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/10
+11,tavily-search,数据处理,en,arun-8687,ClawHub,https://clawhub.ai/arun-8687/tavily-search,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/11
+12,moltbook,社交社区,en,Moltbook,Moltbook,https://www.moltbook.com/skill.md,notice,full,True,2026-11-22T08:50:11+00:00,0,4,2,0,2,8,https://1vr.com/skills/12
+13,test-driven-development,开发编程,en,obra（Superpowers）,GitHub,https://github.com/obra/superpowers/tree/main/skills/test-driven-development,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/13
+14,Skill Seekers,开发编程,en,yusufkaraaslan,GitHub,https://github.com/yusufkaraaslan/Skill_Seekers,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/14
+15,CSV Data Summarizer,数据处理,en,coffeefuelbump,GitHub,https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/15
+16,Markdown to EPUB Converter,内容创作,en,smerchek,GitHub,https://github.com/smerchek/claude-epub-skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/16
+17,Playwright Browser Automation,开发编程,en,lackeyjb,GitHub,https://github.com/lackeyjb/playwright-skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/17
+18,NotebookLM Integration,效率办公,en,PleasePrompto,GitHub,https://github.com/PleasePrompto/notebooklm-skill,notice,full,True,2026-11-22T08:50:11+00:00,0,2,1,0,3,6,https://1vr.com/skills/18
+19,awesome-gamedev-agent-skills,开发编程,en,gamedev-skills,GitHub,https://github.com/gamedev-skills/awesome-gamedev-agent-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/19
+20,deep-research,数据处理,en,sanjay3290,GitHub,https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research,notice,full,True,2026-11-22T08:50:11+00:00,0,1,3,0,2,6,https://1vr.com/skills/20
+21,youtube-transcript,内容创作,en,michalparkola,GitHub,https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript,notice,full,True,2026-11-22T08:50:11+00:00,1,1,0,0,3,5,https://1vr.com/skills/21
+22,family-history-research,生活服务,en,emaynard,GitHub,https://github.com/emaynard/claude-family-history-research-skill,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/22
+23,threat-hunting-with-sigma-rules,其他,en,jthack,GitHub,https://github.com/jthack/threat-hunting-with-sigma-rules-skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/23
+24,solo-skills,效率办公,en,rockscy,GitHub,https://github.com/rockscy/solo-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/24
+25,zh-code-reviewer,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/25
+26,guizang-social-card-skill,内容创作,zh,op7418（归藏）,GitHub,https://github.com/op7418/guizang-social-card-skill,notice,full,True,2026-11-22T08:50:11+00:00,0,6,1,0,2,9,https://1vr.com/skills/26
+27,Andy Writing Skill,内容创作,zh,AIPMAndy（AI酋长Andy）,GitHub,https://github.com/AIPMAndy/Andy-Writing-Skill,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/27
+28,karpathy-coding-guidelines,开发编程,zh,LINUX DO 作者,LINUX DO,https://linux.do/t/topic/1977532,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/28
+29,Skill-Hub,其他,zh,ZyanWan,GitHub,https://github.com/ZyanWan/Skill-Hub,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/29
+30,dsh-claude-skills,其他,zh,GongYuanCaiJi,GitHub,https://github.com/GongYuanCaiJi/dsh-claude-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/30
+31,LinkDigest Agent Skills,数据处理,zh,jcaiagent7143-ui（LinkDigest）,GitHub,https://github.com/jcaiagent7143-ui/linkdigest-mcp,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/31
+32,claude-skill-registry,其他,zh,majiayu000,GitHub,https://github.com/majiayu000/claude-skill-registry,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/32
+33,web-artifacts-builder,开发编程,en,Anthropic,GitHub（claude-skill-registry 索引）,https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder,notice,full,True,2026-11-22T08:50:11+00:00,0,2,0,0,2,4,https://1vr.com/skills/33
+34,fetch-unresolved-comments,开发编程,en,mlflow,GitHub（claude-skill-registry 索引）,https://github.com/mlflow/mlflow/tree/master/.claude/skills/fetch-unresolved-comments,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/34
+35,clinical-decision-support,其他,en,davila7,GitHub（claude-skill-registry 索引）,https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/clinical-decision-support,clear,full,True,2026-11-22T08:50:11+00:00,2,0,0,0,0,2,https://1vr.com/skills/35
+36,market-research-reports,数据处理,en,davila7,GitHub（claude-skill-registry 索引）,https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/market-research-reports,notice,full,True,2026-11-22T08:50:11+00:00,1,0,1,0,0,2,https://1vr.com/skills/36
+37,reproduce-reduce-regress,开发编程,en,facet-rs,GitHub（claude-skill-registry 索引）,https://github.com/facet-rs/facet/tree/main/development/reproduce-reduce-regress,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/37
+38,debug-with-valgrind,开发编程,en,facet-rs,GitHub（claude-skill-registry 索引）,https://github.com/facet-rs/facet/tree/main/testing/debug-with-valgrind,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/38
+39,peer-review,内容创作,en,davila7,GitHub（claude-skill-registry 索引）,https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/peer-review,clear,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,0,1,https://1vr.com/skills/39
+40,hypothesis-generation,数据处理,en,davila7,GitHub（claude-skill-registry 索引）,https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/hypothesis-generation,clear,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,0,1,https://1vr.com/skills/40
+41,research-grants,内容创作,en,davila7,GitHub（claude-skill-registry 索引）,https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/research-grants,clear,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,0,1,https://1vr.com/skills/41
+42,scientific-slides,内容创作,en,davila7,GitHub（claude-skill-registry 索引）,https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/scientific-slides,notice,full,True,2026-11-22T08:50:11+00:00,1,1,1,0,0,3,https://1vr.com/skills/42
+43,scientific-writing,内容创作,en,davila7,GitHub（claude-skill-registry 索引）,https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/scientific-writing,clear,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,0,1,https://1vr.com/skills/43
+44,claude-docs-consultant,开发编程,en,centminmod,GitHub（claude-skill-registry 索引）,https://github.com/centminmod/my-claude-code-setup/tree/main/data/claude-docs-consultant,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/44
+45,brand-guidelines,内容创作,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/brand-guidelines,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/45
+46,canvas-design,内容创作,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/canvas-design,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/46
+47,changelog-generator,开发编程,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/changelog-generator,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/47
+48,competitive-ads-extractor,数据处理,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/48
+49,content-research-writer,内容创作,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/49
+50,domain-name-brainstormer,其他,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer,notice,full,True,2026-11-22T08:50:11+00:00,0,5,0,0,0,5,https://1vr.com/skills/50
+51,file-organizer,效率办公,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,1,2,3,https://1vr.com/skills/51
+52,image-enhancer,内容创作,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/52
+53,invoice-organizer,效率办公,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/53
+54,langsmith-fetch,开发编程,en,ComposioHQ（OthmanAdi）,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch,notice,full,True,2026-11-22T08:50:11+00:00,0,2,2,0,2,6,https://1vr.com/skills/54
+55,lead-research-assistant,数据处理,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/55
+56,meeting-insights-analyzer,效率办公,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/meeting-insights-analyzer,notice,full,True,2026-11-22T08:50:11+00:00,0,2,0,0,0,2,https://1vr.com/skills/56
+57,raffle-winner-picker,生活服务,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/57
+58,tailored-resume-generator,生活服务,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tailored-resume-generator,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/58
+59,theme-factory,内容创作,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/theme-factory,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/59
+60,twitter-algorithm-optimizer,社交社区,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/60
+61,webapp-testing,开发编程,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/webapp-testing,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/61
+62,last30days,数据处理,en,ZyanWan（Skill-Hub 收录）,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/search/last30days,notice,full,True,2026-11-22T08:50:11+00:00,2,10,3,0,2,17,https://1vr.com/skills/62
+63,humanizer,内容创作,en,ZyanWan（Skill-Hub 收录）,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/writing/humanizer,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/63
+64,debug-hypothesis,开发编程,zh,ZyanWan,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/dev-test/debug-hypothesis,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,0,1,https://1vr.com/skills/64
+65,sop-generator,效率办公,zh,ZyanWan,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/writing/sop-generator,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/65
+66,nano-banana,内容创作,zh,ZyanWan,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/design/nano-banana,risk,full,True,2026-11-22T08:50:11+00:00,0,3,2,1,2,8,https://1vr.com/skills/66
+67,ui-ux-pro-max,内容创作,en,ZyanWan（Skill-Hub 收录）,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/design/ui-ux-pro-max,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/67
+68,tts-volcengine,内容创作,zh,ZyanWan,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/audio-video/tts-volcengine,notice,full,True,2026-11-22T08:50:11+00:00,0,1,1,0,1,3,https://1vr.com/skills/68
+69,gsap-scrolltrigger,开发编程,en,ZyanWan（Skill-Hub 收录 GSAP 官方技能集）,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/design/gsap-scrolltrigger,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/69
+70,skill-security-auditor,其他,en,alirezarezvani（GongYuanCaiJi 移植）,GitHub,https://github.com/GongYuanCaiJi/dsh-claude-skills/tree/main/engineering/skills/skill-security-auditor,risk,full,True,2026-11-22T08:50:11+00:00,0,3,3,5,4,15,https://1vr.com/skills/70
+71,pr-review-expert,开发编程,en,alirezarezvani（GongYuanCaiJi 移植）,GitHub,https://github.com/GongYuanCaiJi/dsh-claude-skills/tree/main/engineering/skills/pr-review-expert,notice,full,True,2026-11-22T08:50:11+00:00,0,5,4,2,0,11,https://1vr.com/skills/71
+72,rag-architect,开发编程,en,alirezarezvani（GongYuanCaiJi 移植）,GitHub,https://github.com/GongYuanCaiJi/dsh-claude-skills/tree/main/engineering/skills/rag-architect,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,1,0,1,https://1vr.com/skills/72
+73,self-improving-agent,开发编程,en,pskoett,ClawHub,https://clawhub.ai/pskoett/self-improving-agent,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/73
+74,Skill Vetter,其他,en,spclaudehome,ClawHub,https://clawhub.ai/spclaudehome/skill-vetter,notice,full,True,2026-11-22T08:50:11+00:00,0,3,0,0,0,3,https://1vr.com/skills/74
+75,Self-Improving + Proactive Agent,其他,en,ivangdavila,ClawHub,https://clawhub.ai/ivangdavila/self-improving,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/75
+76,Proactive Agent,效率办公,en,halthelobster,ClawHub,https://clawhub.ai/halthelobster/proactive-agent,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/76
+77,Multi Search Engine,数据处理,en,gpyangyoujun,ClawHub,https://clawhub.ai/gpyangyoujun/multi-search-engine,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/77
+78,Humanizer,内容创作,en,biostartechnology,ClawHub,https://clawhub.ai/biostartechnology/humanizer,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/78
+79,ontology,数据处理,en,oswalpalash,ClawHub,https://clawhub.ai/oswalpalash/ontology,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/79
+80,Free Ride,开发编程,en,shaivpidadi,ClawHub,https://clawhub.ai/shaivpidadi/free-ride,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/80
+81,Obsidian,效率办公,en,steipete,ClawHub,https://clawhub.ai/steipete/obsidian,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/81
+82,Auto-Updater,效率办公,en,maximeprades,ClawHub,https://clawhub.ai/maximeprades/auto-updater,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/82
+83,Weather,生活服务,en,steipete,ClawHub,https://clawhub.ai/steipete/weather,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/83
+84,Nano Banana Pro,内容创作,en,steipete,ClawHub,https://clawhub.ai/steipete/nano-banana-pro,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/84
+85,API Gateway,开发编程,en,byungkyu,ClawHub,https://clawhub.ai/byungkyu/api-gateway,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,0,1,https://1vr.com/skills/85
+86,Desktop Control,效率办公,en,matagul,ClawHub,https://clawhub.ai/matagul/desktop-control,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/86
+87,Word / DOCX,效率办公,en,ivangdavila,ClawHub,https://clawhub.ai/ivangdavila/word-docx,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/87
+88,YouTube Watcher,内容创作,en,michaelgathara,ClawHub,https://clawhub.ai/michaelgathara/youtube-watcher,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/88
+89,OpenAI Whisper,内容创作,en,steipete,ClawHub,https://clawhub.ai/steipete/openai-whisper,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/89
+90,SkillScan,其他,en,tokauthai,ClawHub,https://clawhub.ai/tokauthai/skillscan,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/90
+91,AdMapix,数据处理,en,fly0pants,ClawHub,https://clawhub.ai/fly0pants/admapix,notice,full,True,2026-11-22T08:50:11+00:00,0,2,1,0,0,3,https://1vr.com/skills/91
+92,Nano Pdf,效率办公,en,steipete,ClawHub,https://clawhub.ai/steipete/nano-pdf,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/92
+93,Notion,效率办公,en,steipete,ClawHub,https://clawhub.ai/steipete/notion,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/93
+94,PollyReach,生活服务,en,pollyreach,ClawHub,https://clawhub.ai/pollyreach/pollyreach,notice,full,True,2026-11-22T08:50:11+00:00,0,3,1,0,0,4,https://1vr.com/skills/94
+95,Composio,开发编程,en,wjayesh,ClawHub,https://clawhub.ai/wjayesh/skills/composio,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/95
+96,n8n Autopilot,效率办公,en,Dr. FIRAS,ClawHub,https://clawhub.ai/drfirass/skills/n8n-autopilot,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,1,0,1,https://1vr.com/skills/96
+97,Gmail,效率办公,en,byungkyu,ClawHub,https://clawhub.ai/byungkyu/skills/gmail,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/97
+98,Assistant Mail,效率办公,en,assistantmail,ClawHub,https://clawhub.ai/assistantmail/skills/assistant-mail,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/98
+99,TaskBullet,生活服务,en,griffmurder,ClawHub,https://clawhub.ai/griffmurder/skills/taskbullet,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/99
+100,Fuxux Social Manager,社交社区,en,abogitoff,ClawHub,https://clawhub.ai/abogitoff/skills/fuxux-openclaw-skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/100
+101,Nuwa 女娲,内容创作,zh,alchaincyf,ClawHub,https://clawhub.ai/alchaincyf/skills/nuwa-skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/101
+102,Brave Search,数据处理,en,steipete,ClawHub,https://clawhub.ai/steipete/brave-search,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/102
+103,Summarize,内容创作,en,steipete,ClawHub,https://clawhub.ai/steipete/summarize,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/103
+104,Slack,效率办公,en,steipete,ClawHub,https://clawhub.ai/steipete/slack,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/104
+105,Playwright MCP,开发编程,en,ivangdavila,ClawHub,https://clawhub.ai/ivangdavila/playwright,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/105
+106,Code,开发编程,en,ivangdavila,ClawHub,https://clawhub.ai/ivangdavila/code,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/106
+107,S3,开发编程,en,ivangdavila,ClawHub,https://clawhub.ai/ivangdavila/s3,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/107
+108,SQL Toolkit,数据处理,en,gitgoodordietrying,ClawHub,https://clawhub.ai/gitgoodordietrying/sql-toolkit,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/108
+109,AgentMail,效率办公,en,adboio,ClawHub,https://clawhub.ai/adboio/agentmail,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,0,1,https://1vr.com/skills/109
+110,Filesystem Management,效率办公,en,gtrusler,ClawHub,https://clawhub.ai/gtrusler/clawdbot-filesystem,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/110
+111,video-downloader,内容创作,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,1,2,https://1vr.com/skills/111
+112,skill-share,社交社区,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-share,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/112
+113,connect-apps,效率办公,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/connect-apps,notice,full,True,2026-11-22T08:50:11+00:00,0,3,0,0,2,5,https://1vr.com/skills/113
+114,artifacts-builder,开发编程,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder,notice,full,True,2026-11-22T08:50:11+00:00,0,2,0,0,2,4,https://1vr.com/skills/114
+115,algorithmic-art,内容创作,en,anthropics,GitHub,https://github.com/anthropics/skills/tree/main/skills/algorithmic-art,notice,full,True,2026-11-22T08:50:11+00:00,0,2,0,0,0,2,https://1vr.com/skills/115
+116,internal-comms,效率办公,en,anthropics,GitHub,https://github.com/anthropics/skills/tree/main/skills/internal-comms,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/116
+117,slack-gif-creator,内容创作,en,anthropics,GitHub,https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/117
+118,doc-coauthoring,效率办公,en,anthropics,GitHub,https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring,notice,full,True,2026-11-22T08:50:11+00:00,0,3,0,0,0,3,https://1vr.com/skills/118
+119,claude-api,开发编程,en,anthropics,GitHub,https://github.com/anthropics/skills/tree/main/skills/claude-api,risk,full,True,2026-11-22T08:50:11+00:00,0,5,5,4,6,20,https://1vr.com/skills/119
+120,article2media,内容创作,zh,threerocks,GitHub,https://github.com/threerocks/article2media,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/120
+121,simplified-technical-chinese,内容创作,zh,mzopedia,GitHub,https://github.com/mzopedia/simplified-technical-chinese,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/121
+122,write,内容创作,zh,tw93,GitHub,https://github.com/tw93/Waza/tree/main/skills/write,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,2,2,https://1vr.com/skills/122
+123,huashu-design,内容创作,zh,alchaincyf,GitHub,https://github.com/alchaincyf/huashu-design,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/123
+124,VVV,内容创作,zh,actionow-ai,GitHub,https://github.com/actionow-ai/vvv,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/124
+125,c2c_img,内容创作,zh,actionow-ai,GitHub,https://github.com/actionow-ai/c2c_img,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/125
+126,codex-claude-academic-skills,效率办公,zh,zLanqing,GitHub,https://github.com/zlanqing/codex-claude-academic-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/126
+127,zh-readme,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-readme,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,4,4,https://1vr.com/skills/127
+128,api-tester,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/api-tester,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,0,1,https://1vr.com/skills/128
+129,refactor-advisor,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/refactor-advisor,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/129
+130,perf-profiler,数据处理,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/perf-profiler,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/130
+131,ai-video-producer,内容创作,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/ai-video-producer,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/131
+132,video-summary,内容创作,zh,HOWILLMAKEIT,GitHub,https://github.com/HOWILLMAKEIT/skills/tree/main/video-summary,notice,full,True,2026-11-22T08:50:11+00:00,1,7,0,0,1,9,https://1vr.com/skills/132
+133,better-decision,生活服务,zh,HOWILLMAKEIT,GitHub,https://github.com/HOWILLMAKEIT/skills/tree/main/better-decision,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/133
+134,better-notes,效率办公,zh,HOWILLMAKEIT,GitHub,https://github.com/HOWILLMAKEIT/skills/tree/main/better-notes,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/134
+135,md2wechat-skill,社交社区,zh,geekjourneyx（极客杰尼）,GitHub,https://github.com/geekjourneyx/md2wechat-skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/135
+136,claude-skill-social-post,社交社区,zh,Hao0321（駱君昊 / Hao）,GitHub,https://github.com/Hao0321/claude-skill-social-post,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/136
+137,narrated-video,内容创作,ja,heynstudio,Zenn,https://zenn.dev/heynstudio/articles/a21ba753d44618,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/137
+138,skill-kaji,效率办公,ja,shinichismile,GitHub,https://github.com/shinichismile/skill-kaji,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/138
+139,excel-read,数据处理,ja,itoken-lab-jp（いとけん / itoken_lab）,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/excel-read.md,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/139
+140,japanese-writing,内容创作,ja,itoken-lab-jp（いとけん / itoken_lab）,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/japanese-writing.md,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/140
+141,write-qiita,内容创作,ja,joinclass（合同会社ジョインクラス）,Qiita,https://qiita.com/joinclass/items/f770bb1cd9fefcc47609,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/141
+142,korean-proofreading,内容创作,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/korean-proofreading/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/142
+143,en-ko-translation,内容创作,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/en-ko-translation/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/143
+144,shortform-script,内容创作,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/shortform-script/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/144
+145,product-detail-page,内容创作,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/product-detail-page/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/145
+146,card-news-maker,社交社区,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/card-news-maker/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/146
+147,meeting-minutes,效率办公,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/meeting-minutes/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/147
+148,weekly-report,效率办公,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/weekly-report/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/148
+149,suno-lyrics-skill,内容创作,ko,PrevitLAB (MOKET),GitHub,https://github.com/previtlab/suno-lyrics-skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/149
+150,Short Form Market Research Brain,社交社区,en,virlo-ai,ClawHub,https://clawhub.ai/virlo-ai/short-form-market-research-brain,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/150
+151,marketingskills,内容创作,en,coreyhaines31 (Corey Haines),GitHub,https://github.com/coreyhaines31/marketingskills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/151
+152,alirezarezvani-claude-skills,开发编程,en,alirezarezvani,GitHub,https://github.com/alirezarezvani/claude-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/152
+153,content-collector-skill,社交社区,zh,vigorX777,GitHub,https://github.com/vigorX777/content-collector-skill,notice,full,True,2026-11-22T08:50:11+00:00,0,3,0,0,1,4,https://1vr.com/skills/153
+154,xiaohongshu-skills,社交社区,zh,vivy-yi,GitHub,https://github.com/vivy-yi/xiaohongshu-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/154
+155,tuya-smart-control,生活服务,zh,tuya（涂鸦）,GitHub,https://github.com/tuya/tuya-openclaw-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/155
+156,content-pipeline,内容创作,zh,OrangeViolin（01fish）,GitHub,https://github.com/OrangeViolin/content-pipeline,notice,full,True,2026-11-22T08:50:11+00:00,0,0,3,0,0,3,https://1vr.com/skills/156
+157,zh-docgen,效率办公,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/blob/main/skills/zh-docgen,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/157
+158,wewrite,内容创作,zh,imraywang,GitHub,https://github.com/imraywang/wewrite,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/158
+159,zhy-wechat-writing,内容创作,zh,zhylq,GitHub,https://github.com/zhylq/yuan-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/159
+160,lark-workflow-feishu-cli,效率办公,zh,liangdabiao,GitHub,https://github.com/liangdabiao/lark-workflow-feishu-cli,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/160
+161,undress,其他,zh,HOWILLMAKEIT,GitHub,https://github.com/HOWILLMAKEIT/skills/blob/main/undress,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/161
+162,project-building,效率办公,zh,HOWILLMAKEIT,GitHub,https://github.com/HOWILLMAKEIT/skills/blob/main/project-building,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/162
+163,pdf-read,数据处理,ja,itoken-lab-jp（いとけん）,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/pdf-read.md,notice,full,True,2026-11-22T08:50:11+00:00,0,2,0,0,0,2,https://1vr.com/skills/163
+164,data-query,数据处理,ja,itoken-lab-jp（いとけん）,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/data-query.md,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/164
+165,cold-read,内容创作,ja,itoken-lab-jp（いとけん）,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/cold-read.md,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/165
+166,delegating-work,效率办公,ja,itoken-lab-jp（いとけん）,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/delegating-work.md,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/166
+167,evidence-column,内容创作,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skills/evidence-column,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/167
+168,korean-natural-writing,内容创作,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skills/korean-natural-writing,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/168
+169,image-prompt-builder,内容创作,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skills/image-prompt-builder,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/169
+170,seo-geo-audit,其他,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skills/seo-geo-audit,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/170
+171,study-notes-cards,生活服务,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skills/study-notes-cards,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/171
+172,paper-reader,生活服务,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skills/paper-reader,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/172
+173,unbridled,社交社区,en,jkobject,ClawHub,https://clawhub.ai/jkobject/skills/unbridled,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,1,2,https://1vr.com/skills/173
+174,Productivity,效率办公,en,ivangdavila,ClawHub,https://clawhub.ai/ivangdavila/skills/productivity,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/174
+175,ai-multimodal,内容创作,en,majiayu000,GitHub,https://agent-skills.md/skills/majiayu000/claude-skill-registry/ai-multimodal,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/175
+176,elves,开发编程,en,majiayu000,GitHub,https://agent-skills.md/skills/majiayu000/claude-skill-registry/elves,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/176
+177,graphify,数据处理,en,graphify-labs,GitHub,https://github.com/graphify-labs/graphify,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/177
+178,impeccable,开发编程,en,pbakaus,GitHub,https://github.com/pbakaus/impeccable,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/178
+179,git-workflow,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/git-workflow,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/179
+180,changelog-gen,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/changelog-gen,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/180
+181,db-migrator,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/db-migrator,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/181
+182,error-translator,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/error-translator,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/182
+183,log-analyzer,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/log-analyzer,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,0,1,https://1vr.com/skills/183
+184,test-generator,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/test-generator,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,0,1,https://1vr.com/skills/184
+185,lark-im,社交社区,zh,ZyanWan,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/collaboration/lark-im,notice,full,True,2026-11-22T08:50:11+00:00,1,0,2,0,0,3,https://1vr.com/skills/185
+186,lark-calendar,效率办公,zh,ZyanWan,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/collaboration/lark-calendar,clear,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,0,1,https://1vr.com/skills/186
+187,lark-task,效率办公,zh,ZyanWan,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/collaboration/lark-task,clear,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,0,1,https://1vr.com/skills/187
+188,lark-minutes,效率办公,zh,ZyanWan,GitHub,https://github.com/ZyanWan/Skill-Hub/tree/master/skill-main/general/collaboration/lark-minutes,notice,full,True,2026-11-22T08:50:11+00:00,1,1,2,0,0,4,https://1vr.com/skills/188
+189,cue-omni-reader,数据处理,zh,sensedeal,GitHub,https://github.com/sensedeal/cue-skills/tree/main/cue-omni-reader,notice,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,1,2,https://1vr.com/skills/189
+190,cue-research,数据处理,zh,sensedeal,GitHub,https://github.com/sensedeal/cue-skills/tree/main/cue-research,notice,full,True,2026-11-22T08:50:11+00:00,1,2,2,0,1,6,https://1vr.com/skills/190
+191,korean-ux-writing,内容创作,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/korean-ux-writing/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/191
+192,site-launch-checklist,开发编程,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/site-launch-checklist/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/192
+193,ui-slop-check,开发编程,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/ui-slop-check/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/193
+194,bug-report-ko,开发编程,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/bug-report-ko/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/194
+195,code-review-ko,开发编程,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/code-review-ko/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/195
+196,secret-leak-check,开发编程,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/secret-leak-check/SKILL.md,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,0,1,https://1vr.com/skills/196
+197,korean-commit-pr,开发编程,ko,beautifulsoup.dev,beautifulsoup.dev,https://beautifulsoup.dev/skill-files/korean-commit-pr/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/197
+198,stop-slop-ko,效率办公,ko,leeandev,GitHub,https://github.com/leeandev/stop-slop-ko/tree/main/plugins/stop-slop-ko/skills/stop-slop-ko,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/198
+199,ios-release-guard,开发编程,ja,dhubplus,Zenn,https://zenn.dev/dhubplus/articles/ios-release-guard-claude-code-testflight,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/199
+200,Orshot,内容创作,en,orshot,ClawHub,https://clawhub.ai/orshot/skills/orshot,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/200
+201,Postiz,社交社区,en,nevo-david,ClawHub,https://clawhub.ai/nevo-david/postiz,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/201
+202,agent-designer,开发编程,en,majiayu000,GitHub,https://agent-skills.md/skills/majiayu000/claude-skill-registry/agent-designer,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/202
+203,mattpocock-skills,开发编程,en,Matt Pocock,GitHub,https://github.com/mattpocock/skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/203
+204,awesome-pm-skills,效率办公,en,Udi Menkes (menkesu),GitHub,https://github.com/menkesu/awesome-pm-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/204
+205,luma-event,生活服务,en,Gleb Kalinin (glebis),GitHub,https://github.com/glebis/claude-skills/tree/main/luma-event,notice,full,True,2026-11-22T08:50:11+00:00,0,2,0,0,1,3,https://1vr.com/skills/205
+206,pii-pdf,数据处理,en,Gleb Kalinin (glebis),GitHub,https://github.com/glebis/claude-skills/tree/main/pii-pdf,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/206
+207,founder-skill,效率办公,en,Jake Schincariol (Jakeschincariol),GitHub,https://github.com/Jakeschincariol/founder-skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/207
+208,linkedin-authority-builder,社交社区,en,Brian R. Wagner (BrianRWagner),GitHub,https://github.com/BrianRWagner/ai-marketing-claude-code-skills/tree/main/linkedin-authority-builder,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/208
+209,xiaohongshu-ops-skill,社交社区,zh,Xiangyu-CAS,GitHub,https://github.com/Xiangyu-CAS/xiaohongshu-ops-skill,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,1,0,2,https://1vr.com/skills/209
+210,tikhub_api_skill,社交社区,zh,liangdabiao,GitHub,https://github.com/liangdabiao/tikhub_api_skill,notice,full,True,2026-11-22T08:50:11+00:00,0,4,2,0,0,6,https://1vr.com/skills/210
+211,ai-trend-publish,社交社区,zh,liyown,GitHub,https://github.com/liyown/ai-trend-publish,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/211
+212,xiaohongshu-ingest,社交社区,zh,chubbyguan,GitHub,https://github.com/chubbyguan/chubbyskills/tree/main/xiaohongshu-ingest,notice,full,True,2026-11-22T08:50:11+00:00,0,3,1,0,1,5,https://1vr.com/skills/212
+213,bazi-ziwei-skill,生活服务,zh,mingze21,GitHub,https://github.com/mingze21/bazi-ziwei-skill,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,2,3,https://1vr.com/skills/213
+214,bloom-tutor,生活服务,zh,Li-Evan,GitHub,https://github.com/Li-Evan/BloomTutor,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/214
+215,floorplan-finder,生活服务,zh,daymade,agent-skills.md,https://agent-skills.md/skills/daymade/claude-code-skills/floorplan-finder,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/215
+216,Humanizer-zh,内容创作,zh,op7418,GitHub,https://github.com/op7418/Humanizer-zh,notice,full,True,2026-11-22T08:50:11+00:00,1,1,0,0,0,2,https://1vr.com/skills/216
+217,shuorenhua,内容创作,zh,MrGeDiao,GitHub,https://github.com/MrGeDiao/shuorenhua,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/217
+218,wechat-coauthor,内容创作,zh,YiShu5,GitHub,https://github.com/YiShu5/claude-skills/blob/master/skills/wechat-coauthor,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/218
+219,会记成报,效率办公,zh,YiShu5,GitHub,https://github.com/YiShu5/claude-skills/blob/master/skills/%E4%BC%9A%E8%AE%B0%E6%88%90%E6%8A%A5.skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/219
+220,security-audit,开发编程,zh,laolaoshiren,GitHub,https://github.com/laolaoshiren/claude-code-skills-zh/blob/main/skills/security-audit,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/220
+221,imozuru,数据处理,ja,MaryCache,GitHub,https://github.com/MaryCache/imozuru/blob/main/README.en.md,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,1,2,4,https://1vr.com/skills/221
+222,db-read,数据处理,ja,itoken-lab-jp,Zenn,https://zenn.dev/itoken_lab/articles/itoken-lab-skills-intro,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/222
+223,ai-animation-skills,内容创作,ja,tomotto1296,GitHub,https://github.com/tomotto1296/ai-animation-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/223
+224,aws-cert-prep,生活服务,ja,hazelnut_smnth,Zenn,https://zenn.dev/hazelnut_smnth/articles/4592ed231d92fe,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/224
+225,validate-hypothesis,效率办公,ja,joinclass（合同会社ジョインクラス）,Zenn,https://zenn.dev/joinclass/articles/article-20261104220057-25539,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/225
+226,korean-web-typography,开发编程,ko,beautifulsoup.dev,beautifulsoup.dev 기술 라이브러리,https://beautifulsoup.dev/skill-files/korean-web-typography/SKILL.md,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/226
+227,codex-consensus,开发编程,ko,kseungyong,GitHub,https://github.com/kseungyong/claude-codex-consensus,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/227
+228,context-updater,效率办公,ko,hyxklee,Velog,https://velog.io/@hyxklee/Claude-Code-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95%EC%9C%BC%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%82%B0%EC%84%B1-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A6%AC%EA%B8%B0-2-Skills-Rules,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/228
+229,sns-content-generator,社交社区,ko,클립파이,Clippie 클로드 스킬가이드,https://www.clippie.kr/skills/sns-content/,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/229
+230,insta-freebie-collector,社交社区,ko,클립파이,Clippie 클로드 스킬가이드,https://www.clippie.kr/skills/insta-collect/,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/230
+231,instagram-skill,社交社区,en,social-media-skills,ClawHub,https://clawhub.ai/social-media-skills/skills/instagram-skill,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/231
+232,socialclaw,社交社区,en,ndesv21,GitHub,https://github.com/ndesv21/socialclaw,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/232
+233,social-post,社交社区,en,halilural,GitHub,https://github.com/halilural/imprimatur/tree/main/skills/social-post,notice,full,True,2026-11-22T08:50:11+00:00,0,6,0,0,1,7,https://1vr.com/skills/233
+234,Travel Consultant,生活服务,en,liveljack,ClawHub,https://clawhub.ai/liveljack/xianzong-travel-aipay,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/234
+235,camping-loadout-planner,生活服务,en,voronindenis5,ClawHub,https://clawhub.ai/voronindenis5/skills/camping-loadout-planner,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/235
+236,toddler-flight-survival-kit,生活服务,en,voronindenis5,ClawHub,https://clawhub.ai/voronindenis5/skills/toddler-flight-survival-kit,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/236
+237,stickman-video,内容创作,en,vargai,ClawHub,https://clawhub.ai/vargai/skills/stickman-video,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/237
+238,MrScraper,数据处理,en,ai-mrscraper,ClawHub,https://clawhub.ai/ai-mrscraper/skills/mrscraper,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/238
+239,baoyu-xhs-images,社交社区,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-xhs-images,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,1,1,2,https://1vr.com/skills/239
+240,baoyu-post-to-wechat,社交社区,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-post-to-wechat,notice,full,True,2026-11-22T08:50:11+00:00,1,5,4,0,2,12,https://1vr.com/skills/240
+241,baoyu-wechat-summary,社交社区,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-wechat-summary,notice,full,True,2026-11-22T08:50:11+00:00,1,0,1,0,0,2,https://1vr.com/skills/241
+242,bookkeeping-cn,生活服务,zh,sanhuang520-ship-it,GitHub,https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools/tree/main/skills/bookkeeping-cn,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/242
+243,homework-tutor-cn,生活服务,zh,sanhuang520-ship-it,GitHub,https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools/tree/main/skills/homework-tutor-cn,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/243
+244,JobFitSkill,生活服务,zh,XiaqiuOO（虾球欧欧）,GitHub,https://github.com/XiaqiuOO/JobFitSkill,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/244
+245,ecommerce-copywriting,内容创作,zh,sanhuang520-ship-it,GitHub,https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools/tree/main/skills/ecommerce-copywriting,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/245
+246,gzh-skill-kit,内容创作,zh,88lin（茉灵智库）,GitHub,https://github.com/88lin/gzh-skill-kit,notice,full,True,2026-11-22T08:50:11+00:00,0,3,1,1,0,5,https://1vr.com/skills/246
+247,guizang-ppt-skill,内容创作,zh,op7418（歸藏）,GitHub,https://github.com/op7418/guizang-ppt-skill,notice,full,True,2026-11-22T08:50:11+00:00,0,0,2,0,0,2,https://1vr.com/skills/247
+248,prd-generator,效率办公,zh,Fokkyp,GitHub,https://github.com/Fokkyp/claude-skills/tree/main/prd-generator,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/248
+249,chart-making,数据处理,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/chart-making.md,notice,full,True,2026-11-22T08:50:11+00:00,0,4,0,0,0,4,https://1vr.com/skills/249
+250,japanese-translation,内容创作,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/japanese-translation.md,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/250
+251,task-tracking,效率办公,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/task-tracking.md,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/251
+252,exploratory-analysis,数据处理,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/exploratory-analysis.md,notice,full,True,2026-11-22T08:50:11+00:00,0,5,0,0,0,5,https://1vr.com/skills/252
+253,summary-certainty,效率办公,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/summary-certainty.md,notice,full,True,2026-11-22T08:50:11+00:00,0,1,0,0,0,1,https://1vr.com/skills/253
+254,daiso-product-search,生活服务,ko,NomaDamas,GitHub,https://github.com/nomadamas/k-skill/tree/main/daiso-product-search,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,1,2,https://1vr.com/skills/254
+255,delivery-tracking,生活服务,ko,NomaDamas,GitHub,https://github.com/nomadamas/k-skill/tree/main/delivery-tracking,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,1,2,https://1vr.com/skills/255
+256,seoul-subway-arrival,生活服务,ko,NomaDamas,GitHub,https://github.com/nomadamas/k-skill/tree/main/seoul-subway-arrival,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,1,2,https://1vr.com/skills/256
+257,real-estate-search,生活服务,ko,NomaDamas,GitHub,https://github.com/nomadamas/k-skill/tree/main/real-estate-search,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,1,2,https://1vr.com/skills/257
+258,korean-law-search,生活服务,ko,NomaDamas,GitHub,https://github.com/nomadamas/k-skill/tree/main/korean-law-search,notice,full,True,2026-11-22T08:50:11+00:00,0,0,1,0,1,2,https://1vr.com/skills/258
+259,codex-diff-develop,开发编程,es,j4rk0r,GitHub,https://github.com/j4rk0r/claude-skills/tree/main/skills/codex-diff-develop,notice,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,1,2,https://1vr.com/skills/259
+260,codex-pr-review,开发编程,es,j4rk0r,GitHub,https://github.com/j4rk0r/claude-skills/tree/main/skills/codex-pr-review,notice,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,1,2,https://1vr.com/skills/260
+261,planning-with-files-es,效率办公,es,OthmanAdi,GitHub,https://github.com/OthmanAdi/planning-with-files/tree/master/skills/i18n/planning-with-files-es,notice,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,1,2,https://1vr.com/skills/261
+262,lgpd-ripd,数据处理,pt,goul4rt,GitHub,https://github.com/goul4rt/lgpd-skills/tree/main/skills/lgpd-ripd,clear,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,0,0,https://1vr.com/skills/262
+263,gap-analysis,开发编程,pt,afonsoft,GitHub,https://github.com/afonsoft/skills/tree/main/skills/gap-analysis,notice,full,True,2026-11-22T08:50:11+00:00,0,0,0,0,2,2,https://1vr.com/skills/263
+264,flowgrammers-skills,内容创作,pt,ricardonevesbraga（ricneves-ai）,GitHub,https://github.com/ricardonevesbraga/flowgrammers-skills,notice,basic,False,2026-11-22T08:50:11+00:00,0,0,0,0,1,1,https://1vr.com/skills/264
+265,vermenschlichen,内容创作,de,LOGIN-TB,GitHub,https://github.com/LOGIN-TB/claude-skills/tree/main/skills/vermenschlichen,notice,full,True,2026-11-22T08:50:11+00:00,0,6,1,0,0,7,https://1vr.com/skills/265
+266,humanizer-de,内容创作,de,marmbiz（Martin Möller）,GitHub,https://github.com/marmbiz/humanizer-de,notice,full,True,2026-11-22T08:50:11+00:00,1,2,0,0,1,4,https://1vr.com/skills/266
+267,planning-with-files-de,效率办公,de,OthmanAdi,GitHub,https://github.com/OthmanAdi/planning-with-files/tree/master/skills/i18n/planning-with-files-de,notice,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,2,3,https://1vr.com/skills/267
+268,copywriting-hooks,内容创作,fr,samber,GitHub,https://github.com/samber/cc-skills/tree/main/skills/copywriting-hooks,notice,full,True,2026-11-22T08:50:11+00:00,1,0,0,0,1,2,https://1vr.com/skills/268
+269,baoyu-article-illustrator,内容创作,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-article-illustrator,,,False,,0,0,0,0,0,0,https://1vr.com/skills/269
+270,baoyu-comic,内容创作,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-comic,,,False,,0,0,0,0,0,0,https://1vr.com/skills/270
+271,baoyu-cover-image,内容创作,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-cover-image,,,False,,0,0,0,0,0,0,https://1vr.com/skills/271
+272,baoyu-infographic,内容创作,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-infographic,,,False,,0,0,0,0,0,0,https://1vr.com/skills/272
+273,baoyu-post-to-weibo,社交社区,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-post-to-weibo,,,False,,0,0,0,0,0,0,https://1vr.com/skills/273
+274,audience-fit,效率办公,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/audience-fit.md,,,False,,0,0,0,0,0,0,https://1vr.com/skills/274
+275,prioritizing,效率办公,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/prioritizing.md,,,False,,0,0,0,0,0,0,https://1vr.com/skills/275
+276,when-to-escalate,效率办公,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/when-to-escalate.md,,,False,,0,0,0,0,0,0,https://1vr.com/skills/276
+277,kbo-results,生活服务,ko,NomaDamas,GitHub,https://github.com/nomadamas/k-skill/tree/main/kbo-results,,,False,,0,0,0,0,0,0,https://1vr.com/skills/277
+278,fine-dust-location,生活服务,ko,NomaDamas,GitHub,https://github.com/nomadamas/k-skill/tree/main/fine-dust-location,,,False,,0,0,0,0,0,0,https://1vr.com/skills/278
+279,zipcode-search,生活服务,ko,NomaDamas,GitHub,https://github.com/nomadamas/k-skill/tree/main/zipcode-search,,,False,,0,0,0,0,0,0,https://1vr.com/skills/279
+280,daangn-used-goods-search,社交社区,ko,NomaDamas,GitHub,https://github.com/nomadamas/k-skill/tree/main/daangn-used-goods-search,,,False,,0,0,0,0,0,0,https://1vr.com/skills/280
+281,commit-es,开发编程,es,carlosp5751258-lgtm（Ctrl+IA）,GitHub,https://github.com/carlosp5751258-lgtm/ctrlia-pack-comandos/tree/main/.claude/skills/commit-es,,,False,,0,0,0,0,0,0,https://1vr.com/skills/281
+282,antes-de-subir,开发编程,es,carlosp5751258-lgtm（Ctrl+IA）,GitHub,https://github.com/carlosp5751258-lgtm/ctrlia-pack-comandos/tree/main/.claude/skills/antes-de-subir,,,False,,0,0,0,0,0,0,https://1vr.com/skills/282
+283,lgpd-audit,数据处理,pt,goul4rt,GitHub,https://github.com/goul4rt/lgpd-skills/tree/main/skills/lgpd-audit,,,False,,0,0,0,0,0,0,https://1vr.com/skills/283
+284,lgpd-dsar,数据处理,pt,goul4rt,GitHub,https://github.com/goul4rt/lgpd-skills/tree/main/skills/lgpd-dsar,,,False,,0,0,0,0,0,0,https://1vr.com/skills/284
+285,write-specs,效率办公,pt,afonsoft,GitHub,https://github.com/afonsoft/skills/tree/main/skills/write-specs,,,False,,0,0,0,0,0,0,https://1vr.com/skills/285
+286,zustellbarkeit,效率办公,de,LOGIN-TB,GitHub,https://github.com/LOGIN-TB/claude-skills/tree/main/skills/zustellbarkeit,,,False,,0,0,0,0,0,0,https://1vr.com/skills/286
+287,seo-audit,内容创作,de,LOGIN-TB,GitHub,https://github.com/LOGIN-TB/claude-skills/tree/main/skills/seo-audit,,,False,,0,0,0,0,0,0,https://1vr.com/skills/287
+288,humaniseur-fr,内容创作,fr,samber,GitHub,https://github.com/samber/cc-skills/tree/main/skills/humaniseur-fr,,,False,,0,0,0,0,0,0,https://1vr.com/skills/288
+289,brainstorming,开发编程,en,obra,GitHub,https://github.com/obra/superpowers/tree/main/skills/brainstorming,,,False,,0,0,0,0,0,0,https://1vr.com/skills/289
+290,systematic-debugging,开发编程,en,obra,GitHub,https://github.com/obra/superpowers/tree/main/skills/systematic-debugging,,,False,,0,0,0,0,0,0,https://1vr.com/skills/290
+291,writing-plans,开发编程,en,obra,GitHub,https://github.com/obra/superpowers/tree/main/skills/writing-plans,,,False,,0,0,0,0,0,0,https://1vr.com/skills/291
+292,verification-before-completion,开发编程,en,obra,GitHub,https://github.com/obra/superpowers/tree/main/skills/verification-before-completion,,,False,,0,0,0,0,0,0,https://1vr.com/skills/292
+293,requesting-code-review,开发编程,en,obra,GitHub,https://github.com/obra/superpowers/tree/main/skills/requesting-code-review,,,False,,0,0,0,0,0,0,https://1vr.com/skills/293
+294,receiving-code-review,开发编程,en,obra,GitHub,https://github.com/obra/superpowers/tree/main/skills/receiving-code-review,,,False,,0,0,0,0,0,0,https://1vr.com/skills/294
+295,using-git-worktrees,开发编程,en,obra,GitHub,https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees,,,False,,0,0,0,0,0,0,https://1vr.com/skills/295
+296,finishing-a-development-branch,开发编程,en,obra,GitHub,https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch,,,False,,0,0,0,0,0,0,https://1vr.com/skills/296
+297,dispatching-parallel-agents,效率办公,en,obra,GitHub,https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents,,,False,,0,0,0,0,0,0,https://1vr.com/skills/297
+298,developer-growth-analysis,数据处理,en,ComposioHQ,GitHub,https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis,,,False,,0,0,0,0,0,0,https://1vr.com/skills/298
+299,baoyu-post-to-x,社交社区,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-post-to-x,,,False,,0,0,0,0,0,0,https://1vr.com/skills/299
+300,baoyu-diagram,内容创作,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-diagram,,,False,,0,0,0,0,0,0,https://1vr.com/skills/300
+301,baoyu-slide-deck,内容创作,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-slide-deck,,,False,,0,0,0,0,0,0,https://1vr.com/skills/301
+302,baoyu-translate,效率办公,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-translate,,,False,,0,0,0,0,0,0,https://1vr.com/skills/302
+303,baoyu-url-to-markdown,数据处理,zh,JimLiu（宝玉）,GitHub,https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-url-to-markdown,,,False,,0,0,0,0,0,0,https://1vr.com/skills/303
+304,generalizing-lessons,效率办公,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/generalizing-lessons.md,,,False,,0,0,0,0,0,0,https://1vr.com/skills/304
+305,ticket-writing,效率办公,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/ticket-writing.md,,,False,,0,0,0,0,0,0,https://1vr.com/skills/305
+306,idea-planning,效率办公,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/idea-planning.md,,,False,,0,0,0,0,0,0,https://1vr.com/skills/306
+307,figure-making,内容创作,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/figure-making.md,,,False,,0,0,0,0,0,0,https://1vr.com/skills/307
+308,teaching,其他,ja,itoken-lab-jp,GitHub,https://github.com/itoken-lab-jp/skills/blob/main/docs/teaching.md,,,False,,0,0,0,0,0,0,https://1vr.com/skills/308
+309,coupang-product-search,生活服务,ko,NomaDamas,GitHub,https://github.com/NomaDamas/k-skill/tree/main/coupang-product-search,,,False,,0,0,0,0,0,0,https://1vr.com/skills/309
+310,bunjang-search,社交社区,ko,NomaDamas,GitHub,https://github.com/NomaDamas/k-skill/tree/main/bunjang-search,,,False,,0,0,0,0,0,0,https://1vr.com/skills/310
+311,daangn-jobs-search,生活服务,ko,NomaDamas,GitHub,https://github.com/NomaDamas/k-skill/tree/main/daangn-jobs-search,,,False,,0,0,0,0,0,0,https://1vr.com/skills/311
+312,express-bus-booking,生活服务,ko,NomaDamas,GitHub,https://github.com/NomaDamas/k-skill/tree/main/express-bus-booking,,,False,,0,0,0,0,0,0,https://1vr.com/skills/312
+313,railway-timetable,生活服务,ko,NomaDamas,GitHub,https://github.com/NomaDamas/k-skill/tree/main/railway-timetable,,,False,,0,0,0,0,0,0,https://1vr.com/skills/313
+314,pr-descripcion,开发编程,es,carlosp5751258-lgtm（Ctrl+IA）,GitHub,https://github.com/carlosp5751258-lgtm/ctrlia-pack-comandos/tree/main/.claude/skills/pr-descripcion,,,False,,0,0,0,0,0,0,https://1vr.com/skills/314
+315,arregla-tests,开发编程,es,carlosp5751258-lgtm（Ctrl+IA）,GitHub,https://github.com/carlosp5751258-lgtm/ctrlia-pack-comandos/tree/main/.claude/skills/arregla-tests,,,False,,0,0,0,0,0,0,https://1vr.com/skills/315
+316,explica,开发编程,es,carlosp5751258-lgtm（Ctrl+IA）,GitHub,https://github.com/carlosp5751258-lgtm/ctrlia-pack-comandos/tree/main/.claude/skills/explica,,,False,,0,0,0,0,0,0,https://1vr.com/skills/316
+317,lgpd-data-mapping,数据处理,pt,goul4rt,GitHub,https://github.com/goul4rt/lgpd-skills/tree/main/skills/lgpd-data-mapping,,,False,,0,0,0,0,0,0,https://1vr.com/skills/317
+318,lgpd-incident-response,数据处理,pt,goul4rt,GitHub,https://github.com/goul4rt/lgpd-skills/tree/main/skills/lgpd-incident-response,,,False,,0,0,0,0,0,0,https://1vr.com/skills/318
+319,abrir-pr,开发编程,pt,vcampitelli,GitHub,https://github.com/vcampitelli/slides-agente-skills-de-verdade/tree/main/demo/.claude/skills/abrir-pr,,,False,,0,0,0,0,0,0,https://1vr.com/skills/319
+320,trader-budget,数据处理,de,neubauerwilli,GitHub,https://github.com/neubauerwilli/trader-skill-deutsch/tree/main/trader-budget,,,False,,0,0,0,0,0,0,https://1vr.com/skills/320
+321,erst-pruefen,开发编程,de,robbot-ki,GitHub,https://github.com/robbot-ki/erst-pruefen/tree/main/erst-pruefen,,,False,,0,0,0,0,0,0,https://1vr.com/skills/321
+322,humanize,内容创作,fr,collectifweb,GitHub,https://github.com/collectifweb/claude-skills/tree/main/humanize,,,False,,0,0,0,0,0,0,https://1vr.com/skills/322
+323,roast,效率办公,fr,collectifweb,GitHub,https://github.com/collectifweb/claude-skills/tree/main/roast,,,False,,0,0,0,0,0,0,https://1vr.com/skills/323
+324,adaptlypost,社交社区,en,tarasshyn,ClawHub,https://clawhub.ai/tarasshyn/skills/adaptlypost,,,False,,0,0,0,0,0,0,https://1vr.com/skills/324
+325,postgres,数据处理,en,sanjay3290,GitHub,https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres,,,False,,0,0,0,0,0,0,https://1vr.com/skills/325
+326,reachweaver,社交社区,en,MSKazemi,GitHub,https://github.com/MSKazemi/reachweaver,,,False,,0,0,0,0,0,0,https://1vr.com/skills/326
+327,expense-report,效率办公,en,claude-office-skills,GitHub,https://github.com/claude-office-skills/skills,,,False,,0,0,0,0,0,0,https://1vr.com/skills/327
+328,travel-planner,生活服务,en,ailabs-393,GitHub,https://github.com/ailabs-393/ai-labs-claude-skills,,,False,,0,0,0,0,0,0,https://1vr.com/skills/328
